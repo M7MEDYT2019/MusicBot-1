@@ -1,1 +1,1 @@
--jar JMusicBot-X.Y.Z.jar
+java -Dnogui=true -jar JMusicBot-X.Y.Z.jar
